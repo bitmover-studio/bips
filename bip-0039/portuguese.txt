@@ -51,7 +51,7 @@ ambiente
 ameixa
 amido
 ampola
-amor
+
 amostra
 anarquia
 anchova
@@ -123,7 +123,7 @@ bala
 baleia
 balsa
 bambu
-banco
+
 banho
 banquete
 barata
@@ -205,7 +205,7 @@ buzina
 cabana
 cabelo
 cabo
-cabra
+cabrito
 cachorro
 cacique
 cadeia
@@ -539,7 +539,7 @@ feira
 feitio
 feixe
 felino
-feliz
+felicidade
 feminino
 feno
 fera
@@ -687,7 +687,7 @@ hoje
 homem
 honesto
 honrado
-humilde
+humildade
 horto
 humorado
 iate
@@ -843,7 +843,7 @@ lividez
 livro
 lixa
 lixeiro
-lobo
+
 locador
 locutor
 logo
@@ -884,7 +884,7 @@ maior
 mais
 malabar
 maldito
-maleta
+
 malhado
 maluco
 malvado
@@ -946,7 +946,7 @@ minhoca
 ministro
 minoria
 miolo
-mito
+
 mirante
 miudeza
 modal
@@ -981,7 +981,7 @@ munheca
 munido
 muralha
 murcho
-muro
+
 muscular
 museu
 musical
@@ -991,7 +991,7 @@ nadador
 naja
 namoro
 nanquim
-nariz
+
 nascer
 natalino
 nato
@@ -1108,7 +1108,7 @@ pegada
 peito
 peixe
 peludo
-pena
+
 penca
 peneira
 penhor
@@ -1132,7 +1132,7 @@ pilhado
 pimenta
 pincel
 pior
-pipa
+
 pipoca
 piquete
 pires
@@ -1515,7 +1515,7 @@ tupi
 turbo
 turco
 turma
-turno
+
 turquesa
 turvo
 tutorial
