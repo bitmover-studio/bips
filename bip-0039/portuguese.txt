@@ -51,7 +51,7 @@ ambiente
 ameixa
 amido
 ampola
-
+amora
 amostra
 anarquia
 anchova
@@ -123,7 +123,7 @@ bala
 baleia
 balsa
 bambu
-
+bondoso
 banho
 banquete
 barata
@@ -843,7 +843,7 @@ lividez
 livro
 lixa
 lixeiro
-
+liberdade
 locador
 locutor
 logo
@@ -884,7 +884,7 @@ maior
 mais
 malabar
 maldito
-
+melancia
 malhado
 maluco
 malvado
@@ -946,7 +946,7 @@ minhoca
 ministro
 minoria
 miolo
-
+morango
 mirante
 miudeza
 modal
@@ -981,7 +981,7 @@ munheca
 munido
 muralha
 murcho
-
+milagre
 muscular
 museu
 musical
@@ -1108,7 +1108,7 @@ pegada
 peito
 peixe
 peludo
-
+padrinho
 penca
 peneira
 penhor
@@ -1132,7 +1132,7 @@ pilhado
 pimenta
 pincel
 pior
-
+pinguim
 pipoca
 piquete
 pires
@@ -1515,7 +1515,7 @@ tupi
 turbo
 turco
 turma
-
+tartaruga
 turquesa
 turvo
 tutorial
