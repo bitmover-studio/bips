@@ -334,7 +334,6 @@ bengala
 benzer
 berimbau
 berlinda
-bermuda
 berro
 besouro
 besteira
@@ -752,7 +751,6 @@ ecologia
 edital
 educado
 efeito
-eficaz
 eixo
 elaborar
 eleger
@@ -882,7 +880,7 @@ fera
 feriado
 ferrugem
 ferver
-festival
+festivo
 fetiche
 feto
 feudal
@@ -2029,7 +2027,6 @@ voleio
 voltar
 vontade
 votante
-vulgar
 vulto
 vuvuzela
 xadrez
